@@ -1,0 +1,16 @@
+names:
+- Hello
+- I Love You
+- 'No'
+- Thanks
+- 'Yes'
+nc: 5
+roboflow:
+  license: CC BY 4.0
+  project: handgesture-u9u37
+  url: https://universe.roboflow.com/pfe-ocgjg/handgesture-u9u37/dataset/1
+  version: 1
+  workspace: pfe-ocgjg
+test: ../test/images
+train: ../train/images
+val: ../valid/images
